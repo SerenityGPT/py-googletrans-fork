@@ -1,3 +1,7 @@
+A fork of project with fixed issue: https://github.com/ssut/py-googletrans/pull/381/files
+
+
+
 Googletrans
 ===========
 
